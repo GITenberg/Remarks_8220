@@ -1,0 +1,29 @@
+_repo: Remarks_8220
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Nye, Bill
+    aliases:
+    - Nye, Edgar W. (Edgar Wilson)
+    - Nye, Edgar Wilson
+    birthdate: 1850
+    deathdate: 1896
+    gutenberg_agent_id: '2704'
+    url: http://www.gutenberg.org/2009/agents/2704
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Wilson_Nye
+description: Cover -- Contents.
+gutenberg_bookshelf: Humor
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8220'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'American wit and humor'
+- !lcc 'PN'
+- GITenberg
+title: Remarks
+url: http://www.gutenberg.org/ebooks/8220
